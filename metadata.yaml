@@ -1,0 +1,29 @@
+_repo: The-History-of-Rome-Books-27-to-36_12582
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Edmonds, Cyrus R.
+    gutenberg_agent_id: '37624'
+    url: http://www.gutenberg.org/2009/agents/37624
+creator:
+  author:
+    agent_name: Livy
+    alias: Livius, Titus
+    gutenberg_agent_id: '3707'
+    url: http://www.gutenberg.org/2009/agents/3707
+    wikipedia: http://en.wikipedia.org/wiki/Livy
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History'
+- GITenberg
+title: The History of Rome, Books 27 to 36
+url: http://www.gutenberg.org/ebooks/12582
