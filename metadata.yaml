@@ -1,10 +1,13 @@
 _repo: The-History-of-Rome-Books-27-to-36_12582
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Edmonds, Cyrus R.
     gutenberg_agent_id: '37624'
     url: http://www.gutenberg.org/2009/agents/37624
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Livy
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3707
     wikipedia: http://en.wikipedia.org/wiki/Livy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12582#The-History-of-Rome-Books-27-to-36
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
